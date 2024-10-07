@@ -1,0 +1,33 @@
+*{
+    motion: 0;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+    display: flex;
+}
+.h1{
+    margin-left: 130px;
+    margin-top: 20px;
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 220px;
+}
+li{
+    margin-left: 60px;
+    margin-top: 10;
+    cursor: pointer;
+}
+.btn__navbar1{
+    margin-left: 200;
+    margin-top: 20;
+}
+button{
+    width: 150;
+    height: 40;
+    margin-left: 70;
+    margin-top: 20;
+}
